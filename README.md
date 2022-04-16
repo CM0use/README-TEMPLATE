@@ -1,3 +1,10 @@
+<!--
+*** If you like this README,
+*** it is available as a template in my repositories,
+*** here is the link:
+*** https://github.com/CM0use/README-TEMPLATE
+-->
+
 <h1 align="center">
   <a href="https://github.com/CM0use/README-TEMPLATE"><img src="https://github.com/CM0use/README-TEMPLATE" alt="Logo of your repository (optional)"></a>
   <br>Repository title.<br>
