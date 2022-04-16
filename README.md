@@ -94,6 +94,7 @@ or copy at https://www.boost.org/LICENSE_1_0.txt
 **Resources I have relied on to make this repository:**
 
 * <a href="https://www.readme-templates.com/">readme-templates</a>
+* <a href="https://shields.io/">shields.io</a>
 * <a href="https://github.com/amitmerchant1990/electron-markdownify">electron-markdownify</a>
 * <a href="https://github.com/dbader/readme-template">readme-template</a>
 * <a href="https://github.com/karan/joe">joe</a>
