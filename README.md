@@ -71,6 +71,13 @@ README.md
 
 ```
 
+## Build & Run
+### Windows/MacOS
+Instructions for Windows/MacOS
+
+### Linux
+Instructions for Linux
+
 ## Contributing
 **Any contribution you make will be greatly appreciated.**<br>
 If you have any ideas/suggestions to improve this repository, make a fork and create a pull request.<br>
