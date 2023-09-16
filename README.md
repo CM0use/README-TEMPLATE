@@ -37,7 +37,7 @@
 * No installation necessary - just use the binary.
 * Easy to modify.
 * Multi-Platform
-  - Windows, macOS and Linux.
+  - Windows, MacOS and Linux.
 * Etc...
 
 ## Requirements
@@ -89,7 +89,6 @@ See accompanying file <a href="https://github.com/CM0use/README-TEMPLATE/blob/ma
 or copy at <a href="https://www.gnu.org/licenses/gpl-3.0.txt">GNU General Public License</a>
 
 ## Acknowledgements
-
 **Resources I have relied on to make this repository:**
 
 * <a href="https://www.readme-templates.com/">readme-templates</a>
