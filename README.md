@@ -84,18 +84,18 @@ README.md
 ```
 
 ## Compile & Run
-### Windows/macOS
-Instructions for Windows/macOS
+### Windows
+Instructions for Windows
 
-### Linux
-Instructions for Linux
+### Linux/macOS
+Instructions for Linux/macOS
 
 ## Build & Run
-### Windows/macOS
-Instructions for Windows/macOS
+### Windows
+Instructions for Windows
 
-### Linux
-Instructions for Linux
+### Linux/macOS
+Instructions for Linux/macOS
 
 ## Contributing
 **Any contribution you make will be greatly appreciated.**<br>
