@@ -52,7 +52,7 @@ int main()
 {
   // ...
 
-  std::cout << "Hello World!!!;
+  std::cout << "Hello World!!!";
 
   return EXIT_SUCCESS;
 
@@ -103,7 +103,7 @@ If you have any ideas/suggestions to improve this repository, make a fork and cr
 You can also <a href="https://github.com/CM0use/README-TEMPLATE/issues">open the issue tracker</a> to report any improvements or bugs.<br>
 
 ## References
-Like a Acknowledgement.
+Like the acknowledgments.
 
 ## License
 **Distributed under the GNU General Public License v3.0**<br>
